@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+_build/prod/rel/duck/bin/duck start
